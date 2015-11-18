@@ -24,7 +24,9 @@
     "phantomjs": "^1.9.18",
     "phantomjs-polyfill": "0.0.1",
     "power-assert": "^1.0.1",
-    "react": "^0.13.3"
+    "react": "^0.13.3",
+    "react-redux": "^3.1.0",
+    "redux": "^3.0.2"
   },
   "license": "MIT",
   "readme": "ERROR: No README data found!"
